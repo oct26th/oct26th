@@ -1,7 +1,7 @@
 ### hey, I'm Joe 👋
 
 **AI product person who ships working systems.**  
-I find problems in data → vibe-code a prototype to validate → push to production.
+I find problems in pain, vibe-code a prototype, then validate by reality.
 
 ---
 
