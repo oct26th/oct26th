@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @oct26th
-- 👀 I’m interested in Python, Fluuter, Swift
+- 👀 I’m interested in Python, Flutter, Swift
 - 🌱 I’m currently learning SwiftPlayground
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
