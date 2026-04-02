@@ -17,3 +17,6 @@ Both demo-able, just ask.
 
 15+ yrs · product mgmt · hardware brand w/ design awards in TW/HK/JP · heavy gamer 🎮  
 📫 joe@ioxi.io · [linkedin](https://linkedin.com/in/oct26th)
+
+---
+*this README? also vibe coded with Claude Code 🤙*
