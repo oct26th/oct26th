@@ -1,6 +1,6 @@
 ### hey, I'm Joe 👋
 
-**AI product person who ships working systems.**  
+**product person who ships.**  
 I find problems in pain, vibe-code a prototype, then validate by reality.
 
 ---
